@@ -1,0 +1,57 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 1
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus nuttalli" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1178 download events in this period)
+Total number of records downloaded: 51
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+
+
+End of report.
