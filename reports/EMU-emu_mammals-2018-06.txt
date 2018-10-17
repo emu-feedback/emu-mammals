@@ -1,0 +1,78 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1909" ; Times: 3
+	Query: "family:Lemuridae institutioncode:EMU" ; Times: 3
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "genus:euphractus" ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "skull vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1169 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "white tail deer" ; Times: 1
+	Query: "sloth" ; Times: 4
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+
+
+End of report.
