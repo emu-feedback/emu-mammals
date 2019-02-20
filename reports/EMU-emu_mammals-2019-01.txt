@@ -1,0 +1,97 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 109
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 22
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34; year &gt;= 2005 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Adult specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:EMU" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "specificepithet:vison genus:Neovison stateprovince:&#34;Michigan&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "592-210" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:striatus genus:tamias institutioncode:EMU" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America lifestage:Adult hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 962 download events in this period)
+Total number of records downloaded: 94
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 20
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-29 ; Times: 11
+	Date: 2019-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
