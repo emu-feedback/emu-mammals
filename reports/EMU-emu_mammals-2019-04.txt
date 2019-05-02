@@ -1,0 +1,68 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Spilogale institutioncode:EMU" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "genus:Mephitis institutioncode:EMU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1263 download events in this period)
+Total number of records downloaded: 115
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-02 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "baiomys taylori" ; Times: 1
+
+
+End of report.
