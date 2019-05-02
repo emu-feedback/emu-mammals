@@ -1,0 +1,71 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-08 ; Times: 4
+	Date: 2019-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "neovison vison" ; Times: 4
+	Query: "Otospermophilus beecheyi hasmass:1" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1975 massing &gt;= 0 hasmass:1" ; Times: 1
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "pekania pennanti" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1960 massing &gt;= 0 hasmass:1" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1281 download events in this period)
+Total number of records downloaded: 56
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-08 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "neotamias minimus" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "genus:pongo" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+
+
+End of report.
