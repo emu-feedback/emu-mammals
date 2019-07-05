@@ -1,0 +1,111 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 143
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Argentina ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-11 ; Times: 23
+	Date: 2019-06-10 ; Times: 33
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 3
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 3
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 1
+	Query: "genus:Myotis specificepithet:vivesi" ; Times: 1
+	Query: "genus:Mormoops specificepithet:blainvillii" ; Times: 1
+	Query: "genus:Philander specificepithet:opossum" ; Times: 2
+	Query: "genus:Phascolarctos specificepithet:cinereus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "genus:Lepus specificepithet:europaeus" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "genus:Euphractus specificepithet:sexcinctus" ; Times: 2
+	Query: "genus:Choloepus specificepithet:didactylus " ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Dasyurus specificepithet:viverrinus" ; Times: 1
+	Query: "genus:Melogale specificepithet:moschata" ; Times: 1
+	Query: "genus:Dasypus specificepithet:hybridus" ; Times: 2
+	Query: "genus:Saimiri specificepithet:oerstedii" ; Times: 3
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 3
+	Query: "genus:Sturnira specificepithet:tildae" ; Times: 1
+	Query: "genus:Felis specificepithet:catus" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 3
+	Query: "genus:Cebus specificepithet:capucinus" ; Times: 2
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 3
+	Query: "genus:Ornithorhynchus specificepithet:anatinus" ; Times: 1
+	Query: "genus:Callithrix specificepithet:jacchus" ; Times: 2
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "genus:Macaca specificepithet:mulatta" ; Times: 2
+	Query: "genus:Alouatta specificepithet:palliata" ; Times: 2
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Choloepus specificepithet:hoffmanni" ; Times: 1
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1182 download events in this period)
+Total number of records downloaded: 132
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Denmark ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 7
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mouse deer" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1956 year &lt;= 1975" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+
+
+End of report.
