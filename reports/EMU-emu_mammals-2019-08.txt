@@ -1,0 +1,133 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 319
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 11
+	Country: United States ; Times: 42
+	Country: Thailand ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-15 ; Times: 8
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-05 ; Times: 11
+	Date: 2019-08-07 ; Times: 4
+	Date: 2019-08-27 ; Times: 4
+	Date: 2019-08-22 ; Times: 7
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 11
+	Date: 2019-08-21 ; Times: 34
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;michigan&#34; year &gt;= 1940 year &lt;= 1980" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "Myotis septentrionalis haslength:1" ; Times: 2
+	Query: "Natalus stramineus haslength:1" ; Times: 2
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 2
+	Query: "Natalus mexicanus haslength:1" ; Times: 3
+	Query: "Lasiurus ega haslength:1" ; Times: 2
+	Query: "Myotis vivesi haslength:1" ; Times: 2
+	Query: "Erophylla sezekorni haslength:1" ; Times: 2
+	Query: "Saimiri oerstedii" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:EMU" ; Times: 2
+	Query: "Nycticeius humeralis haslength:1" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "Glossophaga soricina haslength:1" ; Times: 2
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Myotis albescens haslength:1" ; Times: 2
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019 haslifestage:1 haslength:1" ; Times: 1
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "Hipposideros bicolor haslength:1" ; Times: 2
+	Query: "Perimyotis subflavus haslength:1" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Brachyphylla cavernarum haslength:1" ; Times: 2
+	Query: "Philander opossum" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 11
+	Query: "Pteronotus parnellii haslength:1" ; Times: 2
+	Query: "Lasiurus borealis haslength:1" ; Times: 2
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;michigan&#34; year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019 haslength:1" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 12
+	Query: "Natalus mexicanus hasmass:1" ; Times: 1
+	Query: "Pteronotus quadridens haslength:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;michigan&#34; year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1034 download events in this period)
+Total number of records downloaded: 155
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-29 ; Times: 7
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Lepus californicus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Arequipa" ; Times: 2
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
