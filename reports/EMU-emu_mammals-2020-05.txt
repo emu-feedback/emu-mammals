@@ -1,0 +1,70 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(gutzke)" ; Times: 1
+	Query: "southern yellow bat" ; Times: 1
+	Query: "gutzke" ; Times: 1
+	Query: "Feral hog" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Massachusetts&#34; (&#34;Zapus hudsonius&#34;) institutioncode:EMU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pekania pennanti" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1106 download events in this period)
+Total number of records downloaded: 91
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "genus:Gulo" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Pekania pennanti" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+
+
+End of report.
