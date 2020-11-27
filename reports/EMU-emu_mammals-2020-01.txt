@@ -1,0 +1,107 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 395
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Bolivia ; Times: 4
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 4
+	Date: 2020-01-28 ; Times: 10
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 6
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-22 ; Times: 7
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;hankinson vertebrate museum&#34; &#34;nycticeius humeralis&#34;" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 4
+	Query: "&#34;hankinson vertebrate museum&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34; institutioncode:EMU" ; Times: 1
+	Query: "hankinson vertebrate museum" ; Times: 1
+	Query: "&#34;allen kurta&#34;" ; Times: 1
+	Query: "&#34;hankinson vertebrate museum&#34; borealis" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "&#34;hankinson vertebrate museum&#34; &#34;myotis sodalis&#34;" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:EMU basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;hankinson vertebrate museum&#34; lasionycteris" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 10
+	Query: "vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:EMU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1584 download events in this period)
+Total number of records downloaded: 148
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-17 ; Times: 6
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 6
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis lucifugus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1" ; Times: 3
+	Query: "specificepithet:ega genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 3
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "family:Molossidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+
+
+End of report.
