@@ -1,0 +1,124 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 169
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: United Kingdom ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Thailand ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-22 ; Times: 18
+	Date: 2019-10-05 ; Times: 15
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-30 ; Times: 6
+	Date: 2019-10-04 ; Times: 25
+	Date: 2019-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mus musculus 2018" ; Times: 3
+	Query: "Myotis sodalis 2017" ; Times: 1
+	Query: "Myotis septentrionalis 2018" ; Times: 1
+	Query: "Myotis septentrionalis 2017" ; Times: 1
+	Query: "Myotis septentrionalis 2016" ; Times: 1
+	Query: "Myotis septentrionalis 2013" ; Times: 1
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "Melogale moschata subaurantiaca hasmass:1" ; Times: 2
+	Query: "Chaetodipus hispidus 2017" ; Times: 1
+	Query: "Chaetodipus hispidus 2018" ; Times: 1
+	Query: "Rattus norvegicus 1980" ; Times: 1
+	Query: "Onychomys leucogaster 2017" ; Times: 1
+	Query: "Mus musculus 1974" ; Times: 2
+	Query: "Rattus norvegicus 1977" ; Times: 1
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Lynx canadensis 2017" ; Times: 1
+	Query: "three-toed sloth" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "Mus musculus 1999" ; Times: 2
+	Query: "Microtus ochrogaster 1988" ; Times: 1
+	Query: "Reithrodontomys megalotis 1988" ; Times: 1
+	Query: "Rattus norvegicus 1978" ; Times: 1
+	Query: "Thomomys talpoides 2018" ; Times: 1
+	Query: "Thomomys talpoides 2017" ; Times: 1
+	Query: "Pekania pennanti" ; Times: 1
+	Query: "Microtus ochrogaster 2017" ; Times: 2
+	Query: "Myotis septentrionalis 1990" ; Times: 1
+	Query: "Myotis septentrionalis 2008" ; Times: 1
+	Query: "rabies" ; Times: 1
+	Query: "Myotis septentrionalis 1994" ; Times: 1
+	Query: "Myotis sodalis 2018" ; Times: 1
+	Query: "Reithrodontomys megalotis 2018" ; Times: 1
+	Query: "Microtus ochrogaster 2018" ; Times: 1
+	Query: "genus:sciurus carolinensis family:sciuridae continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Mus musculus 1994" ; Times: 2
+	Query: "Mus musculus 1996" ; Times: 2
+	Query: "Geomys bursarius 2017" ; Times: 1
+	Query: "Melogale moschata subaurantiaca haslength:1" ; Times: 1
+	Query: "Mus musculus 1992" ; Times: 2
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "Manis pentadactyla pentadactyla hasmass:1" ; Times: 2
+	Query: "Geomys bursarius 2018" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Ictidomys county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Little Brown Bat" ; Times: 2
+	Query: "gender" ; Times: 3
+	Query: "Manis pentadactyla pentadactyla haslength:1" ; Times: 1
+	Query: "Mus musculus 1978" ; Times: 2
+	Query: "Rattus norvegicus 2018" ; Times: 1
+	Query: "Lynx canadensis 2018" ; Times: 1
+	Query: "Onychomys leucogaster 2018" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1308 download events in this period)
+Total number of records downloaded: 211
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "specificepithet:aquaticus genus:sylvilagus" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
