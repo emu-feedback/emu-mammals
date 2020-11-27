@@ -1,0 +1,107 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-10 ; Times: 4
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Nycticeius humeralis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Myotis septentrionalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "skull vntype:specimen genus:odocoileus institutioncode:EMU" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1023 download events in this period)
+Total number of records downloaded: 803
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Egypt ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 30
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 8
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-15 ; Times: 3
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Glaucomys sabrinus (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "mormoops blainvillii" ; Times: 1
+	Query: "specificepithet:pallidus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "&#34;Nycticeius humeralis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "&#34;Lasionycteris noctivagans&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "&#34;Myotis septentrionalis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "&#34;Lasiurus borealis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+
+
+End of report.
