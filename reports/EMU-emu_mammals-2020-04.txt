@@ -1,0 +1,138 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 66
+	Country: Austria ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 27
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 5
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-21 ; Times: 24
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-03 ; Times: 8
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 10
+	Query: "specificepithet:beecheyi genus:Otospermophilus haslength:1" ; Times: 1
+	Query: "specificepithet:moschata genus:melogale hasmass:1" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "Sciurus variegatoides" ; Times: 3
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "specificepithet:franklinii genus:Poliocitellus haslength:1" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "ddd" ; Times: 1
+	Query: "Homo sapiens" ; Times: 12
+	Query: "Equus caballus" ; Times: 2
+	Query: "specificepithet:franklinii genus:poliocitellus haslength:1" ; Times: 3
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "specificepithet:leucurus genus:Cynomys haslength:1" ; Times: 1
+	Query: "Panthera tigris" ; Times: 6
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 5
+	Query: "Felis catus" ; Times: 4
+	Query: "specificepithet:moschata genus:melogale haslength:1" ; Times: 2
+	Query: "specificepithet:moschata genus:melogale hasmass:1 haslength:1" ; Times: 1
+	Query: "Papio ursinus" ; Times: 4
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "Callithrix jacchus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1171 download events in this period)
+Total number of records downloaded: 201
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Canada ; Times: 2
+	Country: Austria ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 5
+	Date: 2020-04-15 ; Times: 4
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 7
+	Date: 2020-04-23 ; Times: 5
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-28 ; Times: 12
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:franklinii genus:poliocitellus haslength:1" ; Times: 3
+	Query: "specificepithet:columbianus genus:Urocitellus haslength:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen genus:Petaurista" ; Times: 1
+	Query: "specificepithet:redmani genus:Monophyllus" ; Times: 1
+	Query: "vntype:specimen genus:Lagidium" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:Ictidomys haslength:1" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:richardsonii genus:Urocitellus haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela haslength:1" ; Times: 1
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
