@@ -1,0 +1,152 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 334
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 15
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-06 ; Times: 8
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-17 ; Times: 4
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 3
+	Query: "specificepithet:Carolinensis genus:Sciurus haslifestage:1 haslength:1" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:EMU" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:EMU" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:EMU" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "MISSOURI cryptotis parva" ; Times: 1
+	Query: "MAMMAL MISSOURI sigmodon hispidus" ; Times: 1
+	Query: "MAMMAL MISSOURI reithrodontomys megalotis" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "Homo sapiens" ; Times: 6
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslifestage:1 hassex:1 haslength:1" ; Times: 2
+	Query: "specificepithet:fuscipes genus:neotoma county:&#34;san diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "MAMMAL MISSOURI cryptotis parva" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Cynomys leucurus country:&#34;United States&#34; hasmass:1" ; Times: 3
+	Query: "hassex:1 hasmass:1 Odocoileus virginianus" ; Times: 3
+	Query: "specificepithet:volans genus:Glaucomys continent:North America year &gt;= 1961 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 Odocoileus virginianus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Odocoileus virginianus country:&#34;United States&#34; hasmass:1" ; Times: 4
+	Query: "Odocoileus virginianus hasmass:1" ; Times: 3
+	Query: "Panthera tigris" ; Times: 1
+	Query: "ROMEROLAGUS DIAZI" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1521 download events in this period)
+Total number of records downloaded: 1127
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: India ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-28 ; Times: 5
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-31 ; Times: 9
+	Date: 2020-10-14 ; Times: 12
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-16 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslength:1" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslifestage:1 haslength:1" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "ROMEROLAGUS DIAZI" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "vntype:specimen genus:pongo" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:EMU" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis hassex:1 hasmass:1" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslength:1" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslifestage:1 hassex:1 haslength:1" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
