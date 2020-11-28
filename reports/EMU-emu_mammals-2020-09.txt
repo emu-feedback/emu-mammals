@@ -1,0 +1,121 @@
+Report for Institution Code EMU, Resource emu_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-25 ; Times: 7
+	Date: 2020-09-11 ; Times: 4
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-28 ; Times: 9
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-08 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Peromyscus leucopus continent:North America (ear) year &lt;= 1950 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; lengthtype:total length hasmass:1" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota haslifestage:1 hasmass:1" ; Times: 1
+	Query: "adult specificepithet:floridanus genus:Sylvilagus continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 1
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "adult specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Sciurus carolinensis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; year &gt;= 2015 year &lt;= 2015 lengthtype:total length hasmass:1" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Sciurus lifestage:Adult sex:Female hasmass:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; year &gt;= 2015 lengthtype:total length hasmass:1" ; Times: 2
+	Query: "female specificepithet:floridanus genus:Sylvilagus continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:striatus genus:Tamias continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;Michigan&#34; hasmass:1" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; year &gt;= 2015 year &lt;= 2019 lengthtype:total length hasmass:1" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias country:&#34;United States&#34; year &gt;= 2000 lengthtype:total length hasmass:1" ; Times: 3
+	Query: "Adult specificepithet:floridanus genus:Sylvilagus continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:septentrionalis genus:Myotis hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 976 download events in this period)
+Total number of records downloaded: 281
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pusa hispida" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "genus:Lynx stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias sex:Female hasmass:1" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:Tamias striatus haslength:1" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Tamias continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
